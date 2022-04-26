@@ -1,0 +1,1248 @@
+fileFormatVersion: 2
+guid: b712267fca4510b4fa2c3c41510903e2
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 383151380363818285
+    second: Knight-Battle_0
+  - first:
+      213: -2255606507282921358
+    second: Knight-Battle_1
+  - first:
+      213: -6466942134332853557
+    second: Knight-Battle_2
+  - first:
+      213: 6909778531713206714
+    second: Knight-Battle_3
+  - first:
+      213: -2045999960373796903
+    second: Knight-Battle_4
+  - first:
+      213: 6009122208907566876
+    second: Knight-Battle_5
+  - first:
+      213: -6505759094271142334
+    second: Knight-Battle_6
+  - first:
+      213: 6114429110895922223
+    second: Knight-Battle_7
+  - first:
+      213: 740587640774499691
+    second: Knight-Battle_8
+  - first:
+      213: 2175871505582486242
+    second: Knight-Battle_9
+  - first:
+      213: -655088149269809568
+    second: Knight-Battle_10
+  - first:
+      213: -4966978452686874219
+    second: Knight-Battle_11
+  - first:
+      213: 8359278643010149636
+    second: Knight-Battle_12
+  - first:
+      213: 8237986018217630257
+    second: Knight-Battle_13
+  - first:
+      213: -3270116507708001102
+    second: Knight-Battle_14
+  - first:
+      213: -590408987749143702
+    second: Knight-Battle_15
+  - first:
+      213: -2588469339629153289
+    second: Knight-Battle_16
+  - first:
+      213: -2169718572078581098
+    second: Knight-Battle_17
+  - first:
+      213: -7673843701336066111
+    second: Knight-Battle_18
+  - first:
+      213: 7393422307916563969
+    second: Knight-Battle_19
+  - first:
+      213: -3216760511417288077
+    second: Knight-Battle_20
+  - first:
+      213: 3338199966695176743
+    second: Knight-Battle_21
+  - first:
+      213: 1361840086779032313
+    second: Knight-Battle_22
+  - first:
+      213: -835613760628047675
+    second: Knight-Battle_23
+  - first:
+      213: -2759911069130564439
+    second: Knight-Battle_24
+  - first:
+      213: 7911233919899578403
+    second: Knight-Battle_25
+  - first:
+      213: 1865700680274124042
+    second: Knight-Battle_26
+  - first:
+      213: -112988566101742953
+    second: Knight-Battle_27
+  - first:
+      213: -1196613961789604657
+    second: Knight-Battle_28
+  - first:
+      213: -6008651439643856975
+    second: Knight-Battle_29
+  - first:
+      213: 6915783991574486606
+    second: Knight-Battle_30
+  - first:
+      213: 4701891642778762608
+    second: Knight-Battle_31
+  - first:
+      213: -5240103939711229999
+    second: Knight-Battle_32
+  - first:
+      213: 3700517615738362329
+    second: Knight-Battle_33
+  - first:
+      213: 934550165292974284
+    second: Knight-Battle_34
+  - first:
+      213: -2563012321149935239
+    second: Knight-Battle_35
+  - first:
+      213: 6026389142948697259
+    second: Knight-Battle_36
+  - first:
+      213: -3010405790054958499
+    second: Knight-Battle_37
+  - first:
+      213: -3515707386500954057
+    second: Knight-Battle_38
+  - first:
+      213: -243067420008091303
+    second: Knight-Battle_39
+  - first:
+      213: -2379289619523955573
+    second: Knight-Battle_40
+  - first:
+      213: 8702317368774723969
+    second: Knight-Battle_41
+  - first:
+      213: 9138927022318895034
+    second: Knight-Battle_42
+  - first:
+      213: -4825036504844343254
+    second: Knight-Battle_43
+  - first:
+      213: 4659663395766145655
+    second: Knight-Battle_44
+  - first:
+      213: 4889070961320537975
+    second: Knight-Battle_45
+  - first:
+      213: -6954599652076565631
+    second: Knight-Battle_46
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Knight-Battle_0
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 320
+        width: 46
+        height: 63
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2539c1862a315500800000000000000
+      internalID: 383151380363818285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knight-Battle_1
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 320
+        width: 46
+        height: 62
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 278875415d972b0e0800000000000000
+      internalID: -2255606507282921358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knight-Battle_2
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 320
+        width: 47
+        height: 61
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc27514646ec046a0800000000000000
+      internalID: -6466942134332853557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knight-Battle_3
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 320
+        width: 47
+        height: 64
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab9c26b07f674ef50800000000000000
+      internalID: 6909778531713206714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knight-Battle_4
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 320
+        width: 61
+        height: 61
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9dfd47f40e52b93e0800000000000000
+      internalID: -2045999960373796903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knight-Battle_5
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 320
+        width: 61
+        height: 61
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1f98d1bfc0b46350800000000000000
+      internalID: 6009122208907566876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knight-Battle_6
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 320
+        width: 51
+        height: 64
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24693bf9296e6b5a0800000000000000
+      internalID: -6505759094271142334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knight-Battle_7
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 320
+        width: 51
+        height: 64
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2c424771e0dad450800000000000000
+      internalID: 6114429110895922223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knight-Battle_8
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 320
+        width: 51
+        height: 64
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6d98651988174a00800000000000000
+      internalID: 740587640774499691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knight-Battle_9
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 256
+        width: 47
+        height: 62
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e273272b9f323e10800000000000000
+      internalID: 2175871505582486242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knight-Battle_10
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 256
+        width: 47
+        height: 62
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 066743e8cc8a8e6f0800000000000000
+      internalID: -655088149269809568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knight-Battle_11
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 256
+        width: 47
+        height: 62
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5995498d96fb11bb0800000000000000
+      internalID: -4966978452686874219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knight-Battle_12
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 256
+        width: 47
+        height: 63
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40d112fe2af120470800000000000000
+      internalID: 8359278643010149636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knight-Battle_13
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 256
+        width: 56
+        height: 61
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13a1f7803a4335270800000000000000
+      internalID: 8237986018217630257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knight-Battle_14
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 256
+        width: 56
+        height: 61
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b47cefac563e92d0800000000000000
+      internalID: -3270116507708001102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knight-Battle_15
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 256
+        width: 47
+        height: 63
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6ba30d57227ec7f0800000000000000
+      internalID: -590408987749143702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knight-Battle_16
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 257
+        width: 50
+        height: 62
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f31a6399d8e31cd0800000000000000
+      internalID: -2588469339629153289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knight-Battle_17
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 258
+        width: 50
+        height: 62
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69a30b0547c93e1e0800000000000000
+      internalID: -2169718572078581098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knight-Battle_18
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 192
+        width: 46
+        height: 63
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c7bef7bfc7018590800000000000000
+      internalID: -7673843701336066111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knight-Battle_19
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 192
+        width: 46
+        height: 63
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 106c0d1ca66ba9660800000000000000
+      internalID: 7393422307916563969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knight-Battle_20
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 192
+        width: 46
+        height: 63
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37af775ab55cb53d0800000000000000
+      internalID: -3216760511417288077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knight-Battle_21
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 192
+        width: 47
+        height: 63
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72a3614ee2ba35e20800000000000000
+      internalID: 3338199966695176743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knight-Battle_22
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 192
+        width: 45
+        height: 62
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f2f955f75a36e210800000000000000
+      internalID: 1361840086779032313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knight-Battle_23
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 192
+        width: 45
+        height: 62
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c0465446bd4764f0800000000000000
+      internalID: -835613760628047675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knight-Battle_24
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 192
+        width: 51
+        height: 59
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9acddc85183d2b9d0800000000000000
+      internalID: -2759911069130564439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knight-Battle_25
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 192
+        width: 51
+        height: 59
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 320b2aaa5595acd60800000000000000
+      internalID: 7911233919899578403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knight-Battle_26
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 192
+        width: 51
+        height: 59
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0d91f042ec44e910800000000000000
+      internalID: 1865700680274124042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knight-Battle_27
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 64
+        width: 53
+        height: 126
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79a23dd6f759e6ef0800000000000000
+      internalID: -112988566101742953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knight-Battle_28
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 64
+        width: 53
+        height: 126
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fccf14211f5c46fe0800000000000000
+      internalID: -1196613961789604657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knight-Battle_29
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 64
+        width: 53
+        height: 126
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bf63e0d95bfc9ca0800000000000000
+      internalID: -6008651439643856975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knight-Battle_30
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 0
+        width: 50
+        height: 190
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4e512126ecc9ff50800000000000000
+      internalID: 6915783991574486606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knight-Battle_31
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 128
+        width: 50
+        height: 63
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07db4349989704140800000000000000
+      internalID: 4701891642778762608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knight-Battle_32
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 128
+        width: 50
+        height: 63
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1df1367ea396747b0800000000000000
+      internalID: -5240103939711229999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knight-Battle_33
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 128
+        width: 51
+        height: 59
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d919235a21ea5330800000000000000
+      internalID: 3700517615738362329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knight-Battle_34
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 128
+        width: 51
+        height: 59
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc002138c6038fc00800000000000000
+      internalID: 934550165292974284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knight-Battle_35
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 128
+        width: 51
+        height: 59
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 971a8e29fd95e6cd0800000000000000
+      internalID: -2563012321149935239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knight-Battle_36
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 0
+        width: 50
+        height: 127
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba45abf0ff802a350800000000000000
+      internalID: 6026389142948697259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knight-Battle_37
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 0
+        width: 50
+        height: 127
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5abefd32e3e836d0800000000000000
+      internalID: -3010405790054958499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knight-Battle_38
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 64
+        width: 51
+        height: 59
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 738c46d42c2b53fc0800000000000000
+      internalID: -3515707386500954057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knight-Battle_39
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 64
+        width: 51
+        height: 59
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95172f5287370acf0800000000000000
+      internalID: -243067420008091303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knight-Battle_40
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 64
+        width: 51
+        height: 59
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b84108272b01bfed0800000000000000
+      internalID: -2379289619523955573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knight-Battle_41
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 0
+        width: 52
+        height: 64
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18987804a87d4c870800000000000000
+      internalID: 8702317368774723969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knight-Battle_42
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 0
+        width: 52
+        height: 64
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abf3989e4bdf3de70800000000000000
+      internalID: 9138927022318895034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knight-Battle_43
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 0
+        width: 52
+        height: 64
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a28e57cecd60a0db0800000000000000
+      internalID: -4825036504844343254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knight-Battle_44
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 0
+        width: 61
+        height: 39
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7721885ab237aa040800000000000000
+      internalID: 4659663395766145655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knight-Battle_45
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 0
+        width: 61
+        height: 39
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77f203bc22879d340800000000000000
+      internalID: 4889070961320537975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Knight-Battle_46
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 0
+        width: 61
+        height: 39
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18bcbe6a67c4c7f90800000000000000
+      internalID: -6954599652076565631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

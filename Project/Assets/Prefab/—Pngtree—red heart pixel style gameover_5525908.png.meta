@@ -1,0 +1,840 @@
+fileFormatVersion: 2
+guid: a0b37b63f9ad00e44a9f0e52ef18892c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7797588168558655707
+    second: "\u2014Pngtree\u2014red heart pixel style gameover_5525908_0"
+  - first:
+      213: 8111997991826659998
+    second: "\u2014Pngtree\u2014red heart pixel style gameover_5525908_1"
+  - first:
+      213: 6580418118599684365
+    second: "\u2014Pngtree\u2014red heart pixel style gameover_5525908_2"
+  - first:
+      213: 8723623571782133595
+    second: "\u2014Pngtree\u2014red heart pixel style gameover_5525908_3"
+  - first:
+      213: -2606973849297329537
+    second: "\u2014Pngtree\u2014red heart pixel style gameover_5525908_4"
+  - first:
+      213: -1877069233870251006
+    second: "\u2014Pngtree\u2014red heart pixel style gameover_5525908_5"
+  - first:
+      213: -1366874648092800795
+    second: "\u2014Pngtree\u2014red heart pixel style gameover_5525908_6"
+  - first:
+      213: -3607454149700991008
+    second: "\u2014Pngtree\u2014red heart pixel style gameover_5525908_7"
+  - first:
+      213: -3439762340479617165
+    second: "\u2014Pngtree\u2014red heart pixel style gameover_5525908_8"
+  - first:
+      213: 3013632887330528332
+    second: "\u2014Pngtree\u2014red heart pixel style gameover_5525908_9"
+  - first:
+      213: 3232146980121213791
+    second: "\u2014Pngtree\u2014red heart pixel style gameover_5525908_10"
+  - first:
+      213: 6238174691953798714
+    second: "\u2014Pngtree\u2014red heart pixel style gameover_5525908_11"
+  - first:
+      213: -7093681040567977662
+    second: "\u2014Pngtree\u2014red heart pixel style gameover_5525908_12"
+  - first:
+      213: 9212866895149180592
+    second: "\u2014Pngtree\u2014red heart pixel style gameover_5525908_13"
+  - first:
+      213: -844700728384467708
+    second: "\u2014Pngtree\u2014red heart pixel style gameover_5525908_14"
+  - first:
+      213: 1035862484974609303
+    second: "\u2014Pngtree\u2014red heart pixel style gameover_5525908_15"
+  - first:
+      213: 4391515268081477384
+    second: "\u2014Pngtree\u2014red heart pixel style gameover_5525908_16"
+  - first:
+      213: -4608790078302427133
+    second: "\u2014Pngtree\u2014red heart pixel style gameover_5525908_17"
+  - first:
+      213: -2634195251800612588
+    second: "\u2014Pngtree\u2014red heart pixel style gameover_5525908_18"
+  - first:
+      213: 1871873523133172772
+    second: "\u2014Pngtree\u2014red heart pixel style gameover_5525908_19"
+  - first:
+      213: 2621650083155007904
+    second: "\u2014Pngtree\u2014red heart pixel style gameover_5525908_20"
+  - first:
+      213: 2616769176522152982
+    second: "\u2014Pngtree\u2014red heart pixel style gameover_5525908_21"
+  - first:
+      213: -3855587172186340274
+    second: "\u2014Pngtree\u2014red heart pixel style gameover_5525908_22"
+  - first:
+      213: 7923722902210880897
+    second: "\u2014Pngtree\u2014red heart pixel style gameover_5525908_23"
+  - first:
+      213: -3617831399491228361
+    second: "\u2014Pngtree\u2014red heart pixel style gameover_5525908_24"
+  - first:
+      213: -6172645702193854375
+    second: "\u2014Pngtree\u2014red heart pixel style gameover_5525908_25"
+  - first:
+      213: -7516816090073619334
+    second: "\u2014Pngtree\u2014red heart pixel style gameover_5525908_26"
+  - first:
+      213: 3550135758653812405
+    second: "\u2014Pngtree\u2014red heart pixel style gameover_5525908_27"
+  - first:
+      213: 1496275816425412727
+    second: "\u2014Pngtree\u2014red heart pixel style gameover_5525908_28"
+  - first:
+      213: 219323613438789014
+    second: "\u2014Pngtree\u2014red heart pixel style gameover_5525908_29"
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014red heart pixel style gameover_5525908_0"
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 772
+        width: 162
+        height: 144
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 527c544cfd669c390800000000000000
+      internalID: -7797588168558655707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014red heart pixel style gameover_5525908_1"
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 772
+        width: 161
+        height: 144
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9a9281c13b939070800000000000000
+      internalID: 8111997991826659998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014red heart pixel style gameover_5525908_2"
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 772
+        width: 162
+        height: 144
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d01bda01a67525b50800000000000000
+      internalID: 6580418118599684365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014red heart pixel style gameover_5525908_3"
+      rect:
+        serializedVersion: 2
+        x: 708
+        y: 772
+        width: 161
+        height: 144
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b576c463b69801970800000000000000
+      internalID: 8723623571782133595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014red heart pixel style gameover_5525908_4"
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 772
+        width: 162
+        height: 144
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7266eda81b22dbd0800000000000000
+      internalID: -2606973849297329537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014red heart pixel style gameover_5525908_5"
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 586
+        width: 110
+        height: 145
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20c59581a7f43f5e0800000000000000
+      internalID: -1877069233870251006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014red heart pixel style gameover_5525908_6"
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 586
+        width: 110
+        height: 145
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e801f3efb2e70de0800000000000000
+      internalID: -1366874648092800795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014red heart pixel style gameover_5525908_7"
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 586
+        width: 126
+        height: 145
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e7409f509fbfedc0800000000000000
+      internalID: -3607454149700991008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014red heart pixel style gameover_5525908_8"
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 586
+        width: 75
+        height: 145
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37732ff30628340d0800000000000000
+      internalID: -3439762340479617165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014red heart pixel style gameover_5525908_9"
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 587
+        width: 110
+        height: 144
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4c55c4e42392d920800000000000000
+      internalID: 3013632887330528332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014red heart pixel style gameover_5525908_10"
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 587
+        width: 108
+        height: 144
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5bf9f3cd84eadc20800000000000000
+      internalID: 3232146980121213791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014red heart pixel style gameover_5525908_11"
+      rect:
+        serializedVersion: 2
+        x: 894
+        y: 586
+        width: 74
+        height: 145
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3eecb0c4d2729650800000000000000
+      internalID: 6238174691953798714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014red heart pixel style gameover_5525908_12"
+      rect:
+        serializedVersion: 2
+        x: 986
+        y: 587
+        width: 109
+        height: 144
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 249b5037dae2e8d90800000000000000
+      internalID: -7093681040567977662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014red heart pixel style gameover_5525908_13"
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 393
+        width: 28
+        height: 72
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b6a25811adaadf70800000000000000
+      internalID: 9212866895149180592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014red heart pixel style gameover_5525908_14"
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 393
+        width: 28
+        height: 72
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40d4127b9250744f0800000000000000
+      internalID: -844700728384467708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014red heart pixel style gameover_5525908_15"
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 393
+        width: 36
+        height: 72
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 793a01d117f106e00800000000000000
+      internalID: 1035862484974609303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014red heart pixel style gameover_5525908_16"
+      rect:
+        serializedVersion: 2
+        x: 488
+        y: 393
+        width: 45
+        height: 72
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80763bb7edbc1fc30800000000000000
+      internalID: 4391515268081477384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014red heart pixel style gameover_5525908_17"
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 393
+        width: 36
+        height: 72
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 308607a97d94a00c0800000000000000
+      internalID: -4608790078302427133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014red heart pixel style gameover_5525908_18"
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 393
+        width: 28
+        height: 72
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41167630065717bd0800000000000000
+      internalID: -2634195251800612588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014red heart pixel style gameover_5525908_19"
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 393
+        width: 36
+        height: 72
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42ccfca3d0b3af910800000000000000
+      internalID: 1871873523133172772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014red heart pixel style gameover_5525908_20"
+      rect:
+        serializedVersion: 2
+        x: 741
+        y: 393
+        width: 10
+        height: 72
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a9d3db4cd8f16420800000000000000
+      internalID: 2621650083155007904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014red heart pixel style gameover_5525908_21"
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 393
+        width: 37
+        height: 72
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61c5bc9a3b1a05420800000000000000
+      internalID: 2616769176522152982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014red heart pixel style gameover_5525908_22"
+      rect:
+        serializedVersion: 2
+        x: 822
+        y: 411
+        width: 28
+        height: 54
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e44c74905e33e7ac0800000000000000
+      internalID: -3855587172186340274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014red heart pixel style gameover_5525908_23"
+      rect:
+        serializedVersion: 2
+        x: 831
+        y: 393
+        width: 10
+        height: 10
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18528e47ff7b6fd60800000000000000
+      internalID: 7923722902210880897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014red heart pixel style gameover_5525908_24"
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 303
+        width: 37
+        height: 43
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73d2210a281eacdc0800000000000000
+      internalID: -3617831399491228361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014red heart pixel style gameover_5525908_25"
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 303
+        width: 29
+        height: 43
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 958c46c107b565aa0800000000000000
+      internalID: -6172645702193854375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014red heart pixel style gameover_5525908_26"
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 303
+        width: 30
+        height: 43
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a74a8358797eea790800000000000000
+      internalID: -7516816090073619334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014red heart pixel style gameover_5525908_27"
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 303
+        width: 41
+        height: 43
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bee8feb9ad944130800000000000000
+      internalID: 3550135758653812405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014red heart pixel style gameover_5525908_28"
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 303
+        width: 51
+        height: 43
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7785b0c6de6d3c410800000000000000
+      internalID: 1496275816425412727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "\u2014Pngtree\u2014red heart pixel style gameover_5525908_29"
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 284
+        width: 122
+        height: 6
+      alignment: 8
+      pivot: {x: 1, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 695cfd51aa13b0300800000000000000
+      internalID: 219323613438789014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
